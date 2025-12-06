@@ -1,6 +1,6 @@
  🔌 Banking Next Best Offer (NBO) Microservice
 
-![Swagger UI Screenshot](https://via.placeholder.com/800x400?text=Swagger+UI+Screenshot)
+![Swagger UI Screenshot](./swagger-screenshot.png)
 (Replace with a screenshot of your Swagger UI /docs page)
 
  📖 Overview
