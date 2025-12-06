@@ -1,7 +1,6 @@
  🔌 Banking Next Best Offer (NBO) Microservice
 
 ![Swagger UI Screenshot](./swagger-screenshot.png)
-(Replace with a screenshot of your Swagger UI /docs page)
 
  📖 Overview
 This project is a REST API built with FastAPI that serves real-time product recommendations to banking frontend applications.
